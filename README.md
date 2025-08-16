@@ -1,6 +1,6 @@
 # Hi, I'm Husain 👋
 
-I’m a **2nd-year Computer Engineering student at VIT Pune**, passionate about **web development** and building solutions that are simple, functional, and user-friendly.  
+I’m a **Computer Engineering student at VIT Pune**, passionate about **web development** and building solutions that are simple, functional, and user-friendly.  
 
 ---
 
